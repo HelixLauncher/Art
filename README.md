@@ -1,6 +1,6 @@
 <h1>
 <div align="center">
-<img alt="Helix Branding Assets Banner" src="https://raw.githubusercontent.com/HelixLauncher/Art/main/branding/banner-art-wide/banner-art-wide_128h.png"></img>
+<img alt="Helix Branding Assets Banner" src="https://raw.githubusercontent.com/HelixLauncher/Art/main/branding/banner-art/banner-art_96h.png"></img>
 </div>
 </h1>
 
