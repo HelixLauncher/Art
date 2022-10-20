@@ -56,22 +56,22 @@
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.3 0"/>
 <feBlend mode="normal" in2="effect2_innerShadow_5_79" result="effect3_innerShadow_5_79"/>
 </filter>
-<filter id="filter2_d_5_79" x="22.5057" y="8.84943" width="50.0831" height="10.2415" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter2_d_5_79" x="23.5057" y="9.84943" width="48.0831" height="8.24148" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset/>
-<feGaussianBlur stdDeviation="1"/>
+<feGaussianBlur stdDeviation="0.5"/>
 <feComposite in2="hardAlpha" operator="out"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0"/>
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_5_79"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_5_79" result="shape"/>
 </filter>
 <linearGradient id="paint0_linear_5_79" x1="20.3672" y1="-19.25" x2="38.4414" y2="52.143" gradientUnits="userSpaceOnUse">
-<stop stop-color="#262026"/>
-<stop offset="0.25" stop-color="#1D1D26"/>
-<stop offset="0.5" stop-color="#172419"/>
-<stop offset="0.75" stop-color="#222213"/>
-<stop offset="1" stop-color="#2E1414"/>
+<stop stop-color="#332A32"/>
+<stop offset="0.25" stop-color="#242531"/>
+<stop offset="0.5" stop-color="#1B2C1E"/>
+<stop offset="0.75" stop-color="#2B2C18"/>
+<stop offset="1" stop-color="#371818"/>
 </linearGradient>
 <linearGradient id="paint1_linear_5_79" x1="14" y1="6.5" x2="14" y2="21.5" gradientUnits="userSpaceOnUse">
 <stop stop-color="#EB60DD"/>
