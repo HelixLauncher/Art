@@ -10,6 +10,6 @@ For licensing info, please see the repository's `LICENSE.md`.
 
 ## Folders
 
-* [/branding](/branding) - Helix's official branding, mostly created by [Devin](https://github.com/intergrav)
+* [/branding](/branding) - Helix's official branding, mostly created by [intergrav](https://github.com/intergrav)
 
 More folders will be available soon once branding is sorted out
