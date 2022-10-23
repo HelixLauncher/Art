@@ -1,8 +1,4 @@
-<h1>
-<div align="center">
-<img alt="Helix Branding Assets Banner" src="https://raw.githubusercontent.com/HelixLauncher/Art/main/branding/banner-art/banner-art_96h.png"></img>
-</div>
-</h1>
+# <img alt="Helix Assets Banner" src="https://raw.githubusercontent.com/HelixLauncher/Art/main/branding/banner-art/banner-art_64h.png"></img>
 
 This repository contains most art and branding related to the Helix project.
 
